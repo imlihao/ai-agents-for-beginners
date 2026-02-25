@@ -408,3 +408,5 @@ FodyWeavers.xsd
 
 # Ignore PNG files in the specified directory
 02-explore-agentic-frameworks/code_samples/*.png
+micro-gpt-training/training_loss.png
+micro-gpt-training/attention_weights.png
