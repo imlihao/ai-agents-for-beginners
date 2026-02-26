@@ -410,3 +410,6 @@ FodyWeavers.xsd
 02-explore-agentic-frameworks/code_samples/*.png
 micro-gpt-training/training_loss.png
 micro-gpt-training/attention_weights.png
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
